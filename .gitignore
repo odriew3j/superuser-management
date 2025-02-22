@@ -21,7 +21,9 @@ build/
 .idea/
 
 # Docker
-docker-compose.override.yml
+docker-compose.yml
 
 # Misc
 .DS_Store
+
+nginx.conf
