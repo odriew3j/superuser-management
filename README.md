@@ -1,5 +1,3 @@
-Here’s a **beautiful and efficient README** for your project, covering the **root folder**, **backend**, and **frontend**. This README is designed to be clear, concise, and helpful for developers who want to set up and run your project.
-
 ---
 
 # 🚀 SuperUser Management System
