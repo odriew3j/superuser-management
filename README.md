@@ -1,5 +1,3 @@
----
-
 # 🚀 SuperUser Management System
 
 This project is a **SuperUser Management System** built with a **Flask backend** and a **React frontend**. It allows you to create and manage super users, with data stored in a **PostgreSQL** database. The project is containerized using **Docker** and orchestrated with **Docker Compose**.
